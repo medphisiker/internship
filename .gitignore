@@ -1,2 +1,7 @@
 # игнорируем датасет MNIST
 *MNIST*
+
+# ингнорируем csv file
+*.csv*
+*.tsv*
+*.tfevents*
